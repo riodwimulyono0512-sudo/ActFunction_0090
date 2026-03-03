@@ -22,3 +22,8 @@ void input(){
     cout << "Luas segitiga = " << luas << endl;
 }
 
+//Add main function to execute input
+int main() {
+    input();
+    return 0;
+}
