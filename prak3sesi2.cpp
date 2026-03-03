@@ -1,6 +1,5 @@
 //library
 #include<iostream>
 using namespace std;
-//Deklarasi Global
+//deklarasi global
     float p,l;
-    
